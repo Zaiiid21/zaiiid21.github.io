@@ -13,17 +13,17 @@
 
 /* Stronger blue palette override */
 :root {
-  --page-col: #ecf4ff;
-  --text-col: #1d3557;
-  --link-col: #0a5ecb;
-  --hover-col: #084a9f;
-  --navbar-col: #d7e9fb;
-  --navbar-text-col: #1b3558;
-  --navbar-border-col: #b4d0ec;
-  --footer-col: #d2e5fa;
-  --footer-text-col: #38587b;
-  --footer-link-col: #1c4f89;
-  --footer-hover-col: #0a5ecb;
+  --page-col: #dfeeff;
+  --text-col: #163455;
+  --link-col: #005ec7;
+  --hover-col: #003f89;
+  --navbar-col: #5f8fc5;
+  --navbar-text-col: #f3f8ff;
+  --navbar-border-col: #4d7caf;
+  --footer-col: #5f8fc5;
+  --footer-text-col: #e7f1ff;
+  --footer-link-col: #ffffff;
+  --footer-hover-col: #d3e6ff;
 }
 
 body {
