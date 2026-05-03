@@ -10,3 +10,51 @@
     bottom: -2.6rem;
   }
 }
+
+/* Stronger blue palette override */
+:root {
+  --page-col: #ecf4ff;
+  --text-col: #1d3557;
+  --link-col: #0a5ecb;
+  --hover-col: #084a9f;
+  --navbar-col: #d7e9fb;
+  --navbar-text-col: #1b3558;
+  --navbar-border-col: #b4d0ec;
+  --footer-col: #d2e5fa;
+  --footer-text-col: #38587b;
+  --footer-link-col: #1c4f89;
+  --footer-hover-col: #0a5ecb;
+}
+
+body {
+  background-color: var(--page-col) !important;
+  color: var(--text-col) !important;
+}
+
+.navbar-custom {
+  background-color: var(--navbar-col) !important;
+  border-bottom-color: var(--navbar-border-col) !important;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: var(--navbar-text-col) !important;
+}
+
+a {
+  color: var(--link-col) !important;
+}
+
+a:hover,
+a:focus {
+  color: var(--hover-col) !important;
+}
+
+footer {
+  background-color: var(--footer-col) !important;
+  border-top-color: var(--navbar-border-col) !important;
+}
+
+footer p.text-muted {
+  color: var(--footer-text-col) !important;
+}
