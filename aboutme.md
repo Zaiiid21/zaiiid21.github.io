@@ -1,17 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: A brief personal description
+title: About Me
+subtitle: Biomedical Engineer | AI Research Engineer
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is **Zaid Al Hakioui**. I am a biomedical engineer specialized in data science, artificial intelligence, and computational modelling applied to healthcare and biomedical research. I have experience working with medical imaging, clinical datasets, and AI-driven tools to support data-driven decision-making and improve diagnostic and research workflows.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Biomedical Engineering, Universitat Pompeu Fabra
+- Interuniversity Master in Health Data Science (ongoing)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- **AI Research Engineer** at Biorce (PharmaTech)
+- **AI Engineer** at Alma Medical Imaging
+
+### Contact
+
+- Email: [zaidhk10@gmail.com](mailto:zaidhk10@gmail.com)
+- GitHub: [Zaiiid21](https://github.com/Zaiiid21)
+- Instagram: [@zaiiid21](https://instagram.com/zaiiid21)
+- LinkedIn: [zaid-al-hakioui](https://www.linkedin.com/in/zaid-al-hakioui)
