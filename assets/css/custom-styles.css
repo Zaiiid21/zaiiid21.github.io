@@ -58,3 +58,15 @@ footer {
 footer p.text-muted {
   color: var(--footer-text-col) !important;
 }
+
+/* Post title centered */
+.intro-header .post-heading {
+  text-align: center;
+}
+
+/* Justified text in blog posts */
+.blog-post p,
+.blog-post li {
+  text-align: justify;
+  text-justify: inter-word;
+}

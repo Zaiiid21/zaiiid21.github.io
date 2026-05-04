@@ -144,6 +144,8 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
+url: "https://zaiiid21.github.io"
+baseurl: ""
 timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
