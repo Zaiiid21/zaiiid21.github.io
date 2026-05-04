@@ -59,6 +59,7 @@ Additional pipelines are described for peritubular capillaries (PTC) and interst
 *Figure 1 (source: <a href="#ref-1">[1]</a>): HistomicsUI + ComPRePS plugin workflow, including model/job execution and annotation overlay.*
 
 ![Multi-compartment segmentation outputs (Figure 2 from the preprint)]({{ '/images/compreps-figure2.png' | relative_url }})
+{: .mx-auto.d-block :}
 
 *Figure 2 (source: <a href="#ref-1">[1]</a>): Example outputs for cortical/medullary interstitium, glomeruli classes, tubules, arteries/arterioles, IFTA, and PTC.*
 
